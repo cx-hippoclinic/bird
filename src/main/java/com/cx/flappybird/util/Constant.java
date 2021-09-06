@@ -6,7 +6,7 @@ import java.awt.Font;
 /**
  * 常量类
  * 
- * @author Kingyu 后续优化可写入数据库或文件中，便于修改
+ * 后续优化可写入数据库或文件中，便于修改
  */
 
 public class Constant {

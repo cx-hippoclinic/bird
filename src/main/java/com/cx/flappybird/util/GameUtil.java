@@ -12,7 +12,6 @@ import javax.imageio.ImageIO;
 /**
  * 工具类，游戏中用到的工具都在此类
  *
- * @author Kingyu
  */
 public class GameUtil {
 

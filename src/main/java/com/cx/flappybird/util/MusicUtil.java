@@ -10,7 +10,6 @@ import sun.audio.AudioStream;
 /**
  * 音乐工具类
  *
- * @author Kingyu
  * wav音频：JDK提供的类可直接解码 mp3音频：JDK没有提供支持，需要使用第三方的工具包
  */
 public class MusicUtil {
