@@ -1,17 +1,17 @@
-package com.kingyu.flappybird.app;
+package com.cx.flappybird.app;
 
-import com.kingyu.flappybird.component.GameElementLayer;
-import com.kingyu.flappybird.component.Bird;
-import com.kingyu.flappybird.component.GameBackground;
-import com.kingyu.flappybird.component.GameForeground;
-import com.kingyu.flappybird.component.WelcomeAnimation;
+import com.cx.flappybird.component.GameElementLayer;
+import com.cx.flappybird.component.Bird;
+import com.cx.flappybird.component.GameBackground;
+import com.cx.flappybird.component.GameForeground;
+import com.cx.flappybird.component.WelcomeAnimation;
 
-import static com.kingyu.flappybird.util.Constant.FRAME_HEIGHT;
-import static com.kingyu.flappybird.util.Constant.FRAME_WIDTH;
-import static com.kingyu.flappybird.util.Constant.FRAME_X;
-import static com.kingyu.flappybird.util.Constant.FRAME_Y;
-import static com.kingyu.flappybird.util.Constant.FPS;
-import static com.kingyu.flappybird.util.Constant.GAME_TITLE;
+import static com.cx.flappybird.util.Constant.FRAME_HEIGHT;
+import static com.cx.flappybird.util.Constant.FRAME_WIDTH;
+import static com.cx.flappybird.util.Constant.FRAME_X;
+import static com.cx.flappybird.util.Constant.FRAME_Y;
+import static com.cx.flappybird.util.Constant.FPS;
+import static com.cx.flappybird.util.Constant.GAME_TITLE;
 
 import java.awt.Frame;
 import java.awt.Graphics;

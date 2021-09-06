@@ -1,14 +1,14 @@
-package com.kingyu.flappybird.component;
+package com.cx.flappybird.component;
 
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 import java.awt.image.BufferedImage;
 
-import com.kingyu.flappybird.app.Game;
-import com.kingyu.flappybird.util.Constant;
-import com.kingyu.flappybird.util.GameUtil;
-import com.kingyu.flappybird.util.MusicUtil;
+import com.cx.flappybird.app.Game;
+import com.cx.flappybird.util.Constant;
+import com.cx.flappybird.util.GameUtil;
+import com.cx.flappybird.util.MusicUtil;
 
 /**
  * 小鸟类，实现小鸟的绘制与飞行逻辑

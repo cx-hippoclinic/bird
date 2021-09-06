@@ -1,4 +1,4 @@
-package com.kingyu.flappybird.app;
+package com.cx.flappybird.app;
 
 /**
  * 游戏入口

@@ -1,4 +1,4 @@
-package com.kingyu.flappybird.util;
+package com.cx.flappybird.util;
 
 import java.awt.Color;
 import java.awt.Font;

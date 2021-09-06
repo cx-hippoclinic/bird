@@ -1,4 +1,4 @@
-package com.kingyu.flappybird.component;
+package com.cx.flappybird.component;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -6,8 +6,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 
-import com.kingyu.flappybird.util.Constant;
-import com.kingyu.flappybird.util.MusicUtil;
+import com.cx.flappybird.util.Constant;
+import com.cx.flappybird.util.MusicUtil;
 
 /**
  * 游戏计时器, 使用静态内部类实现了单例模式

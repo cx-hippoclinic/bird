@@ -1,10 +1,10 @@
-package com.kingyu.flappybird.component;
+package com.cx.flappybird.component;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 
-import com.kingyu.flappybird.util.Constant;
-import com.kingyu.flappybird.util.GameUtil;
+import com.cx.flappybird.util.Constant;
+import com.cx.flappybird.util.GameUtil;
 
 /**
  * 游戏背景类，实现游戏背景的绘制

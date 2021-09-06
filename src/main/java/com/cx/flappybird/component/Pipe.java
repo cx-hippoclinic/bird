@@ -1,10 +1,10 @@
-package com.kingyu.flappybird.component;
+package com.cx.flappybird.component;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
 
-import com.kingyu.flappybird.util.Constant;
-import com.kingyu.flappybird.util.GameUtil;
+import com.cx.flappybird.util.Constant;
+import com.cx.flappybird.util.GameUtil;
 
 /**
  * 水管类，实现水管的绘制与运动逻辑

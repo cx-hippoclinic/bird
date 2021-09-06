@@ -1,9 +1,9 @@
-package com.kingyu.flappybird.component;
+package com.cx.flappybird.component;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.kingyu.flappybird.util.Constant;
+import com.cx.flappybird.util.Constant;
 
 /**
  * 水管对象池

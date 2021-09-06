@@ -1,11 +1,11 @@
-package com.kingyu.flappybird.component;
+package com.cx.flappybird.component;
 
 import java.awt.Graphics;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.kingyu.flappybird.util.Constant;
-import com.kingyu.flappybird.util.GameUtil;
+import com.cx.flappybird.util.Constant;
+import com.cx.flappybird.util.GameUtil;
 
 /**
  * 游戏元素层，目前管理水管的生成逻辑并绘制容器中的水管

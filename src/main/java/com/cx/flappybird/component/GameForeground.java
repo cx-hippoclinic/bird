@@ -1,12 +1,12 @@
-package com.kingyu.flappybird.component;
+package com.cx.flappybird.component;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.kingyu.flappybird.util.Constant;
-import com.kingyu.flappybird.util.GameUtil;
+import com.cx.flappybird.util.Constant;
+import com.cx.flappybird.util.GameUtil;
 
 /**
  * 前景层，目前管理云朵的生成逻辑并绘制容器中的云朵

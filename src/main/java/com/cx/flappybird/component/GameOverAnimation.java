@@ -1,7 +1,7 @@
-package com.kingyu.flappybird.component;
+package com.cx.flappybird.component;
 
-import com.kingyu.flappybird.util.Constant;
-import com.kingyu.flappybird.util.GameUtil;
+import com.cx.flappybird.util.Constant;
+import com.cx.flappybird.util.GameUtil;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
