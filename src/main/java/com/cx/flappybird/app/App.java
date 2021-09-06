@@ -3,7 +3,6 @@ package com.cx.flappybird.app;
 /**
  * 游戏入口
  * 
- * @author Kingyu
  *
  */
 

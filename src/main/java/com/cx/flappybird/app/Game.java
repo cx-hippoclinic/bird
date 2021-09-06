@@ -22,7 +22,6 @@ import java.awt.image.BufferedImage;
 /**
  * 游戏主体，管理游戏的组件和窗口绘制
  *
- * @author Kingyu
  */
 
 public class Game extends Frame {
