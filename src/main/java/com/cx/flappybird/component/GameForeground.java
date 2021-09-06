@@ -11,7 +11,6 @@ import com.cx.flappybird.util.GameUtil;
 /**
  * 前景层，目前管理云朵的生成逻辑并绘制容器中的云朵
  *
- * @author Kingyu
  */
 public class GameForeground {
     private final List<Cloud> clouds; // 云朵的容器

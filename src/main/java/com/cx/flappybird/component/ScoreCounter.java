@@ -12,7 +12,6 @@ import com.cx.flappybird.util.MusicUtil;
 /**
  * 游戏计时器, 使用静态内部类实现了单例模式
  *
- * @author Kingyu
  *
  */
 public class ScoreCounter {

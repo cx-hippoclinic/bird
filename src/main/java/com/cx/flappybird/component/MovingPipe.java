@@ -7,7 +7,6 @@ import com.cx.flappybird.util.Constant;
 /**
  * 移动水管类，继承Pipe类
  *
- * @author Kingyu
  */
 
 public class MovingPipe extends Pipe {

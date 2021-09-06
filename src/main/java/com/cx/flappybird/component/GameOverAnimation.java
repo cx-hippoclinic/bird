@@ -9,7 +9,6 @@ import java.awt.image.BufferedImage;
 /**
  * 游戏结束界面
  *
- * @author Kingyu
  *
  */
 public class GameOverAnimation {

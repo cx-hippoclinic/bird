@@ -9,7 +9,6 @@ import com.cx.flappybird.util.GameUtil;
 /**
  * 水管类，实现水管的绘制与运动逻辑
  *
- * @author Kingyu
  */
 public class Pipe {
     static BufferedImage[] imgs; // 水管的图片，static保证图片只加载一次

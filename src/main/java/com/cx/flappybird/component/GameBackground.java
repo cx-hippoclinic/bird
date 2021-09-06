@@ -9,7 +9,6 @@ import com.cx.flappybird.util.GameUtil;
 /**
  * 游戏背景类，实现游戏背景的绘制
  * 
- * @author Kingyu
  *
  */
 public class GameBackground {

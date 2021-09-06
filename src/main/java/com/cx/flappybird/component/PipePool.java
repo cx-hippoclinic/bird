@@ -9,7 +9,6 @@ import com.cx.flappybird.util.Constant;
  * 水管对象池
  * 为了避免反复地创建和销毁对象，使用对象池来提前创建好一些对象，使用时从对象池中获得，使用完后归还
  * 
- * @author Kingyu
  *
  */
 public class PipePool {
